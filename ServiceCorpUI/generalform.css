@@ -1,0 +1,35 @@
+
+h1{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.form{
+    border-radius: 15px;
+    width: 500px;
+    padding: 20px 10px 20px 30px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+label{
+  width: 240px;
+  display: inline-block;
+}
+
+.textarea{
+  width:500px;
+  vertical-align:top;
+}
+
+.review{
+  margin-left: 690px
+}
+.return{
+  margin-left: 46%;
+}

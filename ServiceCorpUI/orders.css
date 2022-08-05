@@ -1,0 +1,51 @@
+
+h3 +p {margin-top: -15px}
+p +hr {margin-top: -10px}
+body {
+  background-color: lightblue;
+}
+
+h1{
+  text-align: center;
+  padding-bottom: 20px;
+}
+h2{
+  text-align: center;
+  margin-top: -8px;
+  padding-bottom: 10px;
+}
+.wordplacement {
+  text-align: left;
+}
+.form{
+    border-radius: 15px;
+    width: 500px;
+    padding: 20px 10px 10px 30px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+}
+
+label{
+  width: 240px;
+  display: inline-block;
+}
+
+.textarea{
+  width:500px;
+  vertical-align:top;
+}
+
+.submitorder{
+  margin-left: 400px
+}
+.editorder{
+  margin-left: auto
+}
+.orderlinks{
+  display: inline-block;
+}

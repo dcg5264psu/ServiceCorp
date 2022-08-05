@@ -1,0 +1,51 @@
+.primaryColor{
+  color:#4d4d4d;
+}
+.primaryBackgroundColor{
+  background-color:#4d4d4d;
+}
+.primaryBackground{
+  background: #4d4d4d;
+}
+.secondaryColor{
+  color:#40d5d9;
+}
+.secondaryBackgroundColor{
+  background-color:#40d5d9;
+}
+.secondaryBackground{
+  background: #40d5d9;
+}
+.basicColor{
+  background-color:#dcd8d8;
+}
+.centerHorizontal{
+  margin: 0 auto;
+}
+.centerVertical{
+  margin: auto 0;
+}
+.headerFont{
+  font-family: "Fjalla one" serif;
+}
+.paragraphfont{
+  font-family: sans-serif;
+}
+
+
+.footer {
+position:fixed;
+left: 0px;
+bottom: 0px;
+right: 10px;
+width: 100%;
+color: black;
+text-align: left;
+padding-top: 1%;
+padding-bottom: 1%;
+padding-left: 10px;
+}
+/*
+#4d4d4d grey
+#40d5d9 teal
+*/
